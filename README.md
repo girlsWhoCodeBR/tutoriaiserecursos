@@ -1,2 +1,1 @@
-# tutoriaiserecursos
-Repositório para tutoriais e materiais de aprendizado sobre programação e desenvolvimento
+Este repositório contém tutoriais e recursos de aprendizado para iniciantes e desenvolvedores avançados, cobrindo uma variedade de tópicos, como front-end, back-end, dados, inteligência artificial e mais.
